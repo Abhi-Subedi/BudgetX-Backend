@@ -26,6 +26,7 @@ class Settings(BaseSettings):
         "http://127.0.0.1:3000",
         "https://budget-x-ch9q.vercel.app",
         "https://budget-x-drab.vercel.app",
+        "https://budgetx.abhinandansubedi.com.np/
     ]
 
     # Google OAuth
